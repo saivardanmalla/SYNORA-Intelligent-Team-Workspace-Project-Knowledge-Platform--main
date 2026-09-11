@@ -1,0 +1,6 @@
+{
+  "name": "SYNORA — Intelligent Team Workspace & Project Knowledge Platform",
+  "description": "Intelligent workspace for software engineering teams to manage members, projects, tasks, documentation, GitHub activity, skill matrix, and project AI copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
